@@ -42,14 +42,14 @@ A clean starting point for the capstone project repository, designed for future 
 | `npm run preview` | Preview production build |
 | `npm test` | Run tests (if configured) |
 
-## Project Structure
+<!-- ## Project Structure
 
 ```
 ├── src/               # Source code
 ├── public/            # Static assets
 ├── package.json       # Dependencies and scripts
 └── README.md         # Project documentation
-```
+``` -->
 
 ## Features
 
@@ -70,4 +70,4 @@ MIT
 
 ---
 
-*Add your project description, screenshots, and more details as the project grows.*
+<!-- *Add your project description, screenshots, and more details as the project grows.* -->
